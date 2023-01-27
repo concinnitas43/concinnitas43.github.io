@@ -1,23 +1,18 @@
 ---
 layout: single
-title:  "Third Test post"
+title:  "Fourth Test post"
 last_modified_at: 2023-01-27T13:35:42
 categories:
     - Test
 ---
 
-# This is my Third test post
+# This is my Fourth test post
 
 - **Bold**
 - *italic*
-- $\mu$
 
 1. a
 2. b
 3. c
 
 ---
-
-$$\mu$$
-
-asdfadf
