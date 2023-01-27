@@ -9,3 +9,5 @@ categories:
 # This is so cool
 
 Now I have a second personal blog!
+
+$\mu$
