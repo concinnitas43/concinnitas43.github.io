@@ -8,4 +8,4 @@ categories:
 
 # This is so cool
 
-Now I have a blog!
+Now I have a personal blog!
