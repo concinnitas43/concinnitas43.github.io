@@ -11,3 +11,8 @@ categories:
 Now I have a second personal blog!
 
 $\mu$
+
+$$\mu$$
+
+$$\int f \, d\mu$$
+
